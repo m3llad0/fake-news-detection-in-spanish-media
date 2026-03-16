@@ -1,1 +1,1 @@
-# fake-news-detection-in-spanish-media
+# Fake news detection in spanish media
